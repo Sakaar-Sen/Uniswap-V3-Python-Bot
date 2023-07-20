@@ -42,7 +42,7 @@ Replace the empty private_key variable in the main.py file with your Ethereum ac
 4. Set Gas Price and Gas Limit (Optional):
 If required, adjust the gas_price and gas_limit variables in the main.py file according to your needs.
 
-## Contributing
+# Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
