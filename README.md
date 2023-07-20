@@ -28,7 +28,7 @@ The main function demonstrates a sample use case, where it approves all tokens f
 ### Installation
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/Sakaar-Sen/web3-uniswap-v3-python-bot.git
+   git clone https://github.com/Sakaar-Sen/Uniswap-V3-Python-Bot.git
    cd web3-uniswap-v3-python-bot
 2. Install required Python packages using pip
    ``` 
