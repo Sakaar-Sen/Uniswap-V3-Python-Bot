@@ -1,6 +1,5 @@
 # Uniswap-V3-Python-Bot
 
-## Description
 This Python Bot interacts with the Arbitrum blockchain to perform various operations on Uniswap V3 using the Web3 library. It allows for token swaps, token approvals, checking balances, and wrapping/unwrapping ETH as WETH.
 
 
