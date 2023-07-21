@@ -35,7 +35,6 @@ The main function demonstrates a sample use case, where it approves all tokens f
    pip install web3
    pip install eth_account  
    pip install ccxt
-
 3. Configure the Private Key:
 Replace the empty private_key variable in the main.py file with your Ethereum account's private key or use an ENV file (recommended).
 
