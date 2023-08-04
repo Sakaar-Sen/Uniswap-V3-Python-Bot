@@ -31,7 +31,7 @@ This Python Bot interacts with the Arbitrum blockchain to perform various operat
 1. Clone this repository to your local machine:
    ```
    git clone https://github.com/Sakaar-Sen/Uniswap-V3-Python-Bot.git
-   cd uniswap-v3-python-bot
+   cd Uniswap-V3-Python-Bot
 2. Install required Python packages using pip
    ``` 
    pip install web3
