@@ -24,7 +24,7 @@ This Python Bot interacts with the Arbitrum blockchain to perform various operat
 ### Prerequisites
 1. Python 3.x installed (https://www.python.org/downloads/).
 2. A private key for the Ethereum account that will be used to perform transactions.
-3. An active Ethereum node connection. You can use either a local node (Tested on Hardhat) or connect to a remote node via Ankr.
+3. An active Ethereum node connection. You can use either a local node (Tested on Ganache) or connect to a remote node via Ankr.
 
 
 ### Installation
